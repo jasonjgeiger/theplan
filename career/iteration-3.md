@@ -1,13 +1,11 @@
-# Skill focuses
-- Career paths
-- Systems design
-- ML/AI
-
-
 # Goals
 - Rediscover my passion at work
 - Understand AI better to find the design connection
 - Workflow optimization
+- Learn 
+  - Career paths
+  - Systems design
+  - ML/AI
 
 
 # Themes
@@ -22,22 +20,24 @@
 - Find ways to leverage what has already been created and tested
 - Levearge design patterns effectively and appropriately
 
-
-# Phase (rated 1-5)
+# Reflect
 ## Last year - 2 years at Microsft (2018)
 1. Reduce mundane work [3]
 2. Get back to leading [3]
 3. Design quality [2]
 4. Focus on a single product [2.5]
 5. Networking [3]
-### Take-aways
+
+## Take-aways
 1. Part mindset, part role and management
 2. A team strategy would make this easier (roles and responsibilities)
 3. :-/ a design system is key
 4. More with the Innovation lab / Super sprints
 5. More dedication needed
 
-# This year (2019)
+
+# Future
+## This year (2019)
 1. New team
 2. Leading and aligned 
 3. Portfolio (always ready/up-to-date)

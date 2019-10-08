@@ -1,13 +1,11 @@
-# Skill focuses
-- Interaction
-- Strategy & Process
-- Leadership
-
-
 # Goals
 - Play
 - Connect
 - Strategy and process
+- Learn
+  - Interaction
+  - Strategy & Process
+  - Leadership
 
 
 # Themes
@@ -27,18 +25,21 @@
 - Strategy and process documentation
 
 
-# Phase (rated 1-5)
+# Reflect
 ## Last year (2019)
 1. New team [5]
 2. Leading and aligned [4]
 3. Portfolio (always ready/up-to-date) [3.5]
 4. Better communicator [3.5]
-### Take-aways
+
+## Take-aways
 1. ;)
 2. There is space for this, focus on this next year
 3. Keep up on updating projects + resume rewrites based on JDs
 4. Be more concise and reflect
 
+
+# Future
 ## This year (2020)
 1. Leading and aligned
 2. Be ahead of the trends

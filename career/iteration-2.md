@@ -1,13 +1,11 @@
-# Skill focus
-- Visual design
-- Code
-- Writing
-
-
 # Goals
 - Improve parallel design skills
 - Design with code
 - Get back to leading
+- Learn
+  - Visual design
+  - Code
+  - Writing
 
 
 # Tasks
@@ -24,7 +22,7 @@
 - Be aware and take the opportunity to guide
 
 
-# Phase (rated 1-5)
+# Reflect
 ## Last 2 years - PHX to SEA  (2016-2017)
 1. Financial betterment for the family [4]
 2. Focus on projects that deliver value beyond $ to the company [4]
@@ -32,7 +30,8 @@
 4. More time with the family [4.5]
 5. Freelance/consulting opportunities [3]
 6. Networking [3]
-### Take-aways
+
+## Take-aways
 1. KEEP IT UP!!!!
 2. Learning and education has value at Microsoft
 3. Dependent on team. WWL might not be the right fit
@@ -40,6 +39,8 @@
 5. ~10% of income
 6. Time commitment is huge (research, doing, follow-up)
 
+
+# Future
 ## This year (2018)
 1. Reduce mundane work
 2. Get back to leading

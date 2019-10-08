@@ -1,12 +1,10 @@
-# Skill focus
-- Development
-- Business
-
-
 # Goals
 - More design, less marketing
 - More alignment with development
 - Influence the business
+- Learn
+  - Development
+  - Business
 
 
 # Tasks
@@ -26,17 +24,19 @@
 - Study business plan structure
 
 
-# Phase (rated 1-5)
+# Reflect
 ## Last year (2015)
 1. Interview with other agencies for perspective [4.5]
-  *Take-aways*
-  - Influence where I am
-  - Shiny isn't guarantteed better
-  - Focus on understanding process not was delivered
 2. Make more money [4]
-  *Take-aways*
-  - Stay current on comp
 
+## Take-aways
+- #1 - Influence where I am
+- #1 - Shiny isn't guarantteed better
+- #1 - Focus on understanding process not was delivered
+- #2 - Stay current on comp
+
+
+# Future
 ## 4 years at Fisher / This year (2016)
 1. Seattle!!!
 2. New job
