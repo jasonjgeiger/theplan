@@ -1,8 +1,11 @@
 # Career Plan
-(Iterations)[career/]
+- [All](career/)
+- [Latest](career/iteration-4.md)
+
 
 # Life Plan
 Stored somewhere else
 
 # Vision board
-(Collections by topics)[boards/]
+- [All](boards/)
+- [Career](boards/career)
