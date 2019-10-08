@@ -1,6 +1,6 @@
 # Goals
 - Rediscover my passion at work
-- Understand AI better to find the design connection
+- Understand AI better
 - Workflow optimization
 - Learn 
   - Career paths
@@ -10,9 +10,9 @@
 
 # Themes
 ## Learn more
-- Find a career opportunities could drive passion
-- The history or AI
-- Design and AI
+- Find career opportunities that could drive passion
+- The history of AI / find the design connection
+- What is being done now with design and AI
 - Design systems - use and creation
 
 ## Smarter not harder
@@ -42,6 +42,7 @@
 2. Leading and aligned 
 3. Portfolio (always ready/up-to-date)
 4. Better communicator
+
 ### How
 1. Job search weekly / Informational interviews
   - Focus on roles that leverage ML/AI
@@ -61,6 +62,7 @@
 1. Be connected
 2. Better communicator
 3. Be ahead of the trends
+
 ### How
 1. 1-2 contacts a month (outside of everday)
 2. Practice / Focus on clarity and brevity- daily reminder

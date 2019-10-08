@@ -1,7 +1,7 @@
 # Goals
 - Play
 - Connect
-- Strategy and process
+- Strategy/Process
 - Learn
   - Interaction
   - Strategy & Process
@@ -26,10 +26,10 @@
 
 
 # Reflect
-## Last year (2019)
+## Last year - 3 years at Microsft (2019)
 1. New team [5]
-2. Leading and aligned [4]
-3. Portfolio (always ready/up-to-date) [3.5]
+2. Leading and aligned [3.5]
+3. Portfolio (always ready/up-to-date) [4]
 4. Better communicator [3.5]
 
 ## Take-aways
@@ -45,6 +45,7 @@
 2. Be ahead of the trends
 3. Be connected
 4. Better communicator
+
 ### How
 1. Lead
   - Create process documentation aligned to Connect
