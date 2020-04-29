@@ -45,6 +45,7 @@
 2. Be ahead of the trends
 3. Be connected
 4. Better communicator
+5. Hard skills
 
 ### How
 1. Lead
@@ -59,9 +60,11 @@
 4. Practice / Focus on clarity and brevity - daily reminder
   - Think then speak (Let me think about it)
   - Ask more questions
+5. Hard skills (physical outlet for design skills)
+  - Woodworking, welding, electronics (radio, networking)
 
 ## Next year (2021)
-?
+1. More reading
 
 
 # Long-term
@@ -69,7 +72,6 @@
   - Income from consulting
   - Part of my weekly time devoted to making with my hands (How & what?)
 - Leading not managing (Vision not people)
-
 
 # Open questions
 - Do I want to work for an agency again?
