@@ -11,10 +11,16 @@ Portfolio checklist
   - before & after screenshots
 
 # Component explorer
-
+  - strategy/goal
+  - examples
 
 # Micro sprint concept
-  - Purpose
-  - Execution plan
+  - purpose
+  - execution plan
 
 # Project Lagro
+  - information architecture
+  - personas
+  - research summary
+  - designs
+  - metrics
