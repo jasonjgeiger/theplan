@@ -1,7 +1,12 @@
 # Career Plan
 - [All](career/)
-- [Latest](career/iteration-4.md)
+- [Plan for 2020](career/iteration-4.md)
 
+# Learning Plan
+- [Plan & Goal for 2020](learning/README.md)
+
+# Portfolio
+- [Checklist](portfolio/README.md)
 
 # Life Plan
 Stored somewhere else
