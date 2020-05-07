@@ -1,15 +1,15 @@
 # GOAL
+What does success look like? Why is this topic important?
 
 # TOPICS
-
-## Strategy
+## [Strategy](topic-strategy.md)
 What does success look like? Why is this topic important?
   - AI+Design
   - Design psychology
   - Human behavior/HCI
   - Product
 
-## Process
+## [Process](topic-process.md)
 What does success look like? Why is this topic important?
   - Information architecture
   - Design system
@@ -17,13 +17,13 @@ What does success look like? Why is this topic important?
   - UX writing
   - Development
     
-## Experience
+## [Experience](topic-experience.md)
 What does success look like? Why is this topic important?
   - Micro-productivity
   - Customer Comms/Notifications
   - Inclusivity
 
-## Career development
+## [Career development](topic-career.md)
 What does success look like? Why is this topic important?
  - Leadership
  - Organization
