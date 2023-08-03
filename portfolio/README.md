@@ -10,17 +10,30 @@ Portfolio checklist
   - wireframes
   - before & after screenshots
 
-# Component explorer
-  - strategy/goal
-  - examples
-
 # Micro sprint concept
   - purpose
   - execution plan
+  - examples
 
-# Project Lagro
+# Project Lagro/Career Coach
   - information architecture
   - personas
   - research summary
   - designs
   - metrics
+
+# HAX toolkit
+  - overview
+  - process
+  - examples
+  - highlights from MLADS 2021-2022
+# Search Coach
+  - overview/purpose
+  - prototype
+  - design system/components
+  - release & customer feedback
+
+# EDU design library
+
+
+# Windows boards
