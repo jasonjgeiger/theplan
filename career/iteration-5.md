@@ -35,10 +35,10 @@
    - Think then speak (Pause, Let me think about it)
    - Ask more questions
 5. Better balance between tech time and real-world time
-  - Down time is outside or not in front of a screen
-  - More breaks, more often
-  - Notes and drawing on paper not on screen
-  - Physical outlet for design skills - woodworking, welding, electronics (radio, networking)
+   - Down time is outside or not in front of a screen
+   - More breaks, more often
+   - Notes and drawing on paper not on screen
+   - Physical outlet for design skills - woodworking, welding, electronics (radio, networking)
 
 # REFLECT
 ## Last year - 6-7 years at Microsft (FY23)
