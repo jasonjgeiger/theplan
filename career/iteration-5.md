@@ -15,14 +15,48 @@
 - Encourage others to embody design
 - Small wins
 
+# Goals - top 5
+1. Leading and aligned
+   - Increase understanding and awareness of the big picture
+   - Look left/right, how can I support my peers, how can my peers help
+2. Be ahead of the trends
+   - More time to play and experiment
+   - Find opportunities before waiting to be told
+3. Be connected
+   - Find a mentor!!!
+   - Have go-to people when I need to know something in other work streams
+   - Collaboration for greater effect
+4. Better communicator
+   - Focus on clarity and brevity - daily reminder
+   - Think then speak (Pause, Let me think about it)
+   - Ask more questions
+5. Better balance between tech time and real-world time
+  - Down time is outside or not in front of a screen
+  - More breaks, more often
+  - Notes and drawing on paper not on screen
+  - Physical outlet for design skills - woodworking, welding, electronics (radio, networking)
 
 # Reflect
-## Last year - 6 years at Microsft (FY23)
-1. Tons of organizational change [😖]
+## Last year - 6-7 years at Microsft (FY23)
+1. Tons of organizational change but a lot of new opportunities [😖]
+    - Join EDU design team - August 2022
+    - Career Coach depreciated - November 2022
+    - Started working on Search Progress - December 2022
+    - Transition to Windows design - June 2023
 2. Leading work areas [🫶]
-3. Didn't allocate enough time to advancing portfolio [🤬]
-4. Participate in educating and advancing RAI [🥳]
-    - MLADS, AI in EDU v-team
+    - 2nd party app explorations in MetaOS (Career Coach)
+    - Search Progress
+    - Learning Accelerator design library
+    - EDU accessibility design leader
+    - EDU copilot scnearios
+    - Study Guide concept
+3. Participated in educating and advancing RAI [🥳]
+    - MLADS presentation about Aether work
+    - AI in EDU v-team to better understand what educators & student want/need from AI
+4. Didn't allocate enough time to advancing portfolio [🤬]
+    - Nothing for Career Coach, Search Progress or Design Library in my portfolio (yet)
+    - Need to be collecting assets and making note more frequently
+5. 
 
 ## Take-aways
 1. There's always change, but some years ther
@@ -30,43 +64,8 @@
 3. Keep up on updating projects + resume rewrites based on JDs
 4. Be more concise and reflect
 
-
-# Goals
-## This year (FY24)
-1. Leading and aligned
-2. Be ahead of the trends
-3. Be connected
-4. Better communicator
-5. Hard skills
-
-### How
-1. Lead
-  - Create process documentation aligned to Connect
-  - Look left/right, how can my peers help
-  - Find a mentor!!!
-2. Research & play
-  - Collaboration for greater effect
-3. Friends in design (other disciplines too)
-  - 1-2 contacts a month (outside of everday)
-  - Improve ice breaker communication
-4. Practice / Focus on clarity and brevity - daily reminder
-  - Think then speak (Let me think about it)
-  - Ask more questions
-5. Hard skills (physical outlet for design skills)
-  - Woodworking, welding, electronics (radio, networking)
-
-## Next year (2021)
-1. More reading
-
-
 # Long-term
-- Diversify income
-  - Income from consulting
-  - Part of my weekly time devoted to making with my hands (How & what?)
 - Leading not managing (Vision not people)
 
 # Open questions
-- Do I want to work for an agency again?
-- Is 50% design work feasable? Wanted?
-- What does a design career look like at Microsoft? Options/Paths?
-- Viability of a portfolio from corporation to agency?
+- What opportunities are available to pursue RAI 100%

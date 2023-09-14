@@ -35,5 +35,6 @@ Portfolio checklist
 
 # EDU design library
 
+# Study Guide
 
 # Windows boards
