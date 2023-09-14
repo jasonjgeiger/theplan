@@ -1,5 +1,5 @@
 # GOAL
-What does success look like? Why is this topic important?
+__Be ahead of the trends and increase awareness of the big picture.__
 
 # TOPICS
 ## [Strategy](topic-strategy.md)

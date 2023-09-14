@@ -56,10 +56,9 @@
 4. Didn't allocate enough time to advancing portfolio [🤬]
     - Nothing for Career Coach, Search Progress or Design Library in my portfolio (yet)
     - Need to be collecting assets and making note more frequently
-5. 
 
 ## Take-aways
-1. There's always change, but some years ther
+1. There's always change, but some years there's more.
 2. There is space for this, focus on this next year
 3. Keep up on updating projects + resume rewrites based on JDs
 4. Be more concise and reflect
