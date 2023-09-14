@@ -6,14 +6,18 @@
 - Define & Refine & Reflect
 - Establish process whereever possible
 
+## Lead more
+- Prioritize the storytelling
+- Compromise if needed, but always drive towards the goal
+- Encourage others to embody design
+- Encourage and praise the small wins (as much as the big ones)
+
 ## Connect more
 - Maximize the collections built throught the Imperative program
 - More opportunities for critiques of my work
 - Be part of the design community not just an observer
 
-## Lead more
-- Encourage others to embody design
-- Small wins
+
 
 # GOALS - Top 5
 1. Leading and aligned
@@ -65,6 +69,7 @@
 
 # LONG-TERM
 - Leading not managing (Vision not people)
+- Work on storytelling
 
 # OPEN QUESTIONS
 - Get crisp on what impact looks like in Windows and as a principle designer?
