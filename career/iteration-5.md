@@ -68,4 +68,5 @@
 
 # OPEN QUESTIONS
 - Where are my skills and experiences the most valuable?
+- Where can I leverage my development (HTML, JS, CSS) skills in Windows? Learn XAML?
 - What opportunities are available to pursue RAI 100%?
