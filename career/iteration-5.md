@@ -67,6 +67,7 @@
 - Leading not managing (Vision not people)
 
 # OPEN QUESTIONS
+- Get crisp on what impact looks like in Windows and as a principle designer?
 - Where are my skills and experiences the most valuable?
 - Where can I leverage my development (HTML, JS, CSS) skills in Windows? Learn XAML?
 - What opportunities are available to pursue RAI 100%?
