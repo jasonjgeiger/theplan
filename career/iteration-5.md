@@ -1,4 +1,4 @@
-# Themes for FY24
+# THEMES FOR FY24
 ## Design quality
 - Focus on interactions that are simple
 - Delight in the little things
@@ -15,7 +15,7 @@
 - Encourage others to embody design
 - Small wins
 
-# Goals - top 5
+# GOALS - Top 5
 1. Leading and aligned
    - Increase understanding and awareness of the big picture
    - Look left/right, how can I support my peers, how can my peers help
@@ -36,7 +36,7 @@
   - Notes and drawing on paper not on screen
   - Physical outlet for design skills - woodworking, welding, electronics (radio, networking)
 
-# Reflect
+# REFLECT
 ## Last year - 6-7 years at Microsft (FY23)
 1. Tons of organizational change but a lot of new opportunities [😖]
     - Join EDU design team - August 2022
@@ -63,8 +63,9 @@
 3. Keep up on updating projects + resume rewrites based on JDs
 4. Be more concise and reflect
 
-# Long-term
+# LONG-TERM
 - Leading not managing (Vision not people)
 
-# Open questions
-- What opportunities are available to pursue RAI 100%
+# OPEN QUESTIONS
+- Where are my skills and experiences the most valuable?
+- What opportunities are available to pursue RAI 100%?
