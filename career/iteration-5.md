@@ -47,6 +47,7 @@
     - Career Coach depreciated - November 2022
     - Started working on Search Progress - December 2022
     - Transition to Windows design - June 2023
+    - Transitioned to Windows CoreUX - September 2023
 2. Leading work areas [🫶]
     - 2nd party app explorations in MetaOS (Career Coach)
     - Search Progress (EDU learning accelerator)
