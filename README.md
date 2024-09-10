@@ -1,9 +1,9 @@
 # Career Plan
 - [All](career/)
-- [Plan for FY24](career/iteration-5.md)
+- [Plan for FY25](career/iteration-6.md)
 
 # Learning Plan
-- [Goal & Plan for FY24](learning/README.md)
+- [Goal & Plan for FY25](learning/README.md)
 
 # Portfolio
 - [Checklist](portfolio/README.md)
