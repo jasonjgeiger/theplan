@@ -1,4 +1,4 @@
-# Responsible AI - FY24
+# Responsible AI - FY25
 
 ## Semantic Kernel
 
