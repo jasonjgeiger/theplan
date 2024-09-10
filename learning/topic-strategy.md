@@ -1,4 +1,4 @@
-# Strategy - FY24
+# Strategy - FY25
 
 ## AI+Design
   - [An Ai Pattern Language](https://www.datasociety.net/pubs/ia/AI_Pattern_Language.pdf) by M.C. Elish and Tim Hwang
