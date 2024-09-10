@@ -16,6 +16,8 @@
 1. Strategy definition for the widget space
 2. More connection with MAI system design (Koehn's team) - How does web fit into Windows
 3. Get another mentor or principle peer
+4. ...
+5. ...
 
 # REFLECT
 ## Last year - 7-8 years at Microsft (FY24)
@@ -25,7 +27,7 @@
   - The team culture is great - transparent, collaborative
 2. I miss actually helping people achieve more
   - Not a huge fan of working in the "ad/promotional" space - did that, that's why I left agency
-3. 
+3. More connections, more consistent 1:1 with partners and leads
 
 ## Take-aways
 1. Need to say "no" more, and have a plan for what I'll be doing with my time instead
