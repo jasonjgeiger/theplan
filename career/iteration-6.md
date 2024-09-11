@@ -14,10 +14,16 @@
 
 # GOALS - Top 5
 1. Strategy definition for the widget space
-2. More connection with MAI system design (Koehn's team) - How does web fit into Windows
-3. Get another mentor or principle peer
+
 4. ...
 5. ...
+
+# PLAN
+
+
+# CAREER PATH
+1. More connection with MAI system design (Koehn's team) - How does web fit into Windows
+2. Get another mentor or principle peer
 
 # REFLECT
 ## Last year - 7-8 years at Microsft (FY24)
@@ -40,6 +46,9 @@
 
 # OPEN QUESTIONS
 - Get crisp on what impact looks like in Windows and as a principle designer?
+  - Need the opportunity space
+  - Then amplify the strategy and vision
+  - Delivery-based approach (visual strategy, prototyping, )
 - Which of my skills and experiences the most valuable? Focus on building those.
 - Where can I leverage my development (HTML, JS, CSS) skills in Windows? Learn XAML?
 - What opportunities are available to pursue more Responsible AI?
